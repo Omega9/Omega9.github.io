@@ -36,4 +36,4 @@ So now you can do things like this:
 22-edo "Just" Minor;0,4,6,9,13,15,18;22
 ```
 
-In this repository there's a collection of scales for [22-edo](http://xenharmonic.wikispaces.com/22edo), [19-edo](http://xenharmonic.wikispaces.com/19edo) or [Carlos Beta](http://xenharmonic.wikispaces.com/Carlos+Beta).
+In [this repository](https://github.com/Omega9/Midi0-Toys/tree/master/NoteMapper%20Scales) there's a collection of scales for [22-edo](http://xenharmonic.wikispaces.com/22edo), [19-edo](http://xenharmonic.wikispaces.com/19edo) or [Carlos Beta](http://xenharmonic.wikispaces.com/Carlos+Beta).

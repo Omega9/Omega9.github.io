@@ -15,7 +15,7 @@ Hi!
 
 My name is Omega9.
 
-I'm a musician.
+Some kind of a musician.
 
 This is my blog.
 
