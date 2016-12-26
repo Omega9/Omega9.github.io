@@ -20,3 +20,5 @@ Some kind of a musician.
 This is my blog.
 
 <a markdown="0" href="{{ site.url }}/download" class="btn">Discography is available to download for free</a>
+
+You can contact me via [Telegram](http://telegram.me/Omega9) or [email](mailto:nullnine@gmail.com).
