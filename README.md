@@ -2,7 +2,7 @@
 
 [•about](https://omega9.github.io/about)
 
-[•articles](http://localhost:4000/articles)
+[•articles](https://omega9.github.io/articles)
 
 [•blog](https://omega9.github.io/blog)
 
