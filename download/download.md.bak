@@ -22,7 +22,7 @@ published: true
 
 Раздача периодически пополняется.
 
-Ссылки на копию в облаке не изменяются по мере возможности.
+Ссылки на копию в облаке и раздачу через [BitTorrent Sync][7] не изменяются по мере возможности.
 
 Актуальные [.torrent-файлы][8] для раздачи в обеих комплектациях распространяются вместе с этим документом.
 
@@ -32,6 +32,7 @@ published: true
 *~8GB*
 
 - [BitTorrent][10]
+- ~~[BitTorrent Sync][11]~~
 - [Yandex Disk][9]
 
 ![](./images/YaDisk_Full_QR.png)
@@ -42,6 +43,10 @@ published: true
 *~1,5GB*
 
 - [BitTorrent][13]
+- [BitTorrent Sync][14]
+
+![](./images/BTSync_Lite_QR.png)
+
 - [Yandex Disk][12]
 
 ![](./images/YaDisk_Lite_QR.png)
