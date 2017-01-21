@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Дискография Omega9 (2007-2016)
+title: Дискография Omega9 (2007-2017)
 permalink: /download/
 published: true
 ---

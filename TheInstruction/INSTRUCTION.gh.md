@@ -1,7 +1,7 @@
 ![](https://raw.githubusercontent.com/Omega9/Omega9.github.io/master/TheInstruction/images/LOGO_BLACK_310x310.png)
 
 # Omega9
-## Дискография (2007-2016)
+## Дискография (2007-2017)
 
 Здесь располагаются ссылки на все релизы Omega9 и сопутствующих проектов.
 
