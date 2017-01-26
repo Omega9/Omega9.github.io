@@ -6,7 +6,7 @@ modified: 2017-01-15
 image:
     feature: stool-smoke.jpg
     credit: Lu
-    creditlink: lu-photographer.tumblr.com
+    creditlink: https://lu-photographer.tumblr.com
 published: true
 comments: false
 share: false
