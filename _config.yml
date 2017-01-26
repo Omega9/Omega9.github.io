@@ -5,7 +5,7 @@ locale: en_US
 description: Pagino de Omega9
 # logo: site-logo.png
 search: true
-url: https://Omega9.github.io
+# url: https://Omega9.github.io
 
 # Jekyll configuration
 
