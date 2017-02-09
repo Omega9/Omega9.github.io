@@ -1,15 +1,17 @@
 ---
 layout: post
 title: Word для нот
-tags: [Notes, Tablatures, Clouds, Services, Software]
+tags: [Ноты, Табулатуры, Облака, Сервисы, Софт, Статьи]
 categories: articles
 date: 2017-01-27
+image:
+    feature: /images/2017/01/notes.png
 published: true
 comments: true
 ---
 ![](/images/2017/01/notes.png)
 
-# Word для нот: обзор нотных редакторов
+# Word для нот: обзор бесплатных нотных редакторов
 
 Вопрос навеян несколькими ситуациями, когда мой собеседник на предложение набить что-то, чтобы распечатать или отправить кому-либо, понятия не имел, в чем и как это делается.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Что такое сэмплы?
-tags: [Articles, Publication, Crosspost, Samples]
+tags: [Статьи, Публикация, Кросспост, Сэмплы]
 categories: articles
 date: 2016-10-12T00:00:00.000Z
 published: true

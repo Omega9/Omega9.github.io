@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Гнилой слон
-tags: [Notes, Clouds, Services, Software]
+tags: [Заметки, Облака, Сервисы, Софт]
 categories: articles
 date: 2016-08-03
 published: true
