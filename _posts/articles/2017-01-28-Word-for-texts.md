@@ -251,7 +251,7 @@ Enterprise ($60 per user/year):
 
 > Note: To collaborate on this document, just save it on CouchDB. To collaborate via Google Drive or Dropbox, you have to share the file manually from Google Drive/Dropbox websites.
 
-### Испорт и экспорт
+### Импорт и экспорт
 Диалоговое окно импорта не уточняет, какие типы файлов годятся, а какие нет. Могу предположить, текстовые документы с разметкой и HTML.
 
 Экспорт возможен в Markdown (.md), HTML, "Using template" также выдает HTML, и напоследок PDF, что компенсирует отсутствие печати на месте.
