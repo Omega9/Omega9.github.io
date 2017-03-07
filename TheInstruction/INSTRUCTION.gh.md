@@ -56,9 +56,9 @@
 [7]: https://ru.wikipedia.org/wiki/BitTorrent_Sync
 [8]: https://ru.wikipedia.org/wiki/.torrent
 [9]: https://yadi.sk/d/4sGQknzWKP5ej
-[10]: ./torrents/Omega9_-_Discography_(2007-2016)_FULL.torrent
+[10]: ./torrents/Omega9_-_Discography_(2007-2017)_FULL.torrent
 [11]: nothing
 [12]: https://yadi.sk/d/_nuSJCMwriLh6
-[13]: ./torrents/Omega9_-_Discography_(2007-2016)_LITE.torrent
+[13]: ./torrents/Omega9_-_Discography_(2007-2017)_LITE.torrent
 [14]: https://link.getsync.com/#f=Omega9%20%28%2706-%2716%29%20%5BMP3%5D&sz=16E8&t=1&s=JB4HJY3OCNQLG2XIUEGP7OLDDQOLFTF5&i=CX5V5I4M475MM3KAJPPG3BQGF43TCZU5L&v=2.3
 [15]: https://yandex.ru/support/disk/uploading.xml#upload-copy
