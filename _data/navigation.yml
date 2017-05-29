@@ -9,8 +9,11 @@
 - title: Blog
   url: /blog/
 
-- title: Download
+- title: Download [RU]
   url: /download/
+
+- title: Download [EN]
+  url: /download_en/
 
 - title: Search
   url: /search/

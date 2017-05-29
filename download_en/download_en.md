@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Discography 2007-2017
-permalink: /download/
-published: false
+permalink: /download_en/
+published: true
 ---
 Here are the links to all Omega9 and related projects releases.
 
