@@ -14,7 +14,7 @@ published: true
 
 #### Раздача производится в двух комплектациях:
 
-- Полная раздача содержит дискографию в форматах со [сжатием без потерь][2] ([FLAC][3]) и [с потерями][4] ([MP3][5] и [OGG Vorbis][6]) в тех случаях, где оригинальные файлы были утеряны. Кроме того, в раздачу входит видео и подборка записей до 2006-го года.
+- Полная раздача содержит дискографию в форматах со [сжатием без потерь][2] ([FLAC][3]) и [с потерями][4] ([MP3][5] и [OGG Vorbis][6]) в тех случаях, где оригинальные файлы были утеряны. Кроме того, в раздачу входит видео и подборка записей до 2007-го года.
 *~9,3GB*
 
 - Облегченная раздача содержит всю дискографию в форматах MP3 и OGG Vorbis.
@@ -55,7 +55,7 @@ published: true
 [4]: https://ru.wikipedia.org/wiki/Сжатие_данных_с_потерями
 [5]: https://ru.wikipedia.org/wiki/MP3
 [6]: https://ru.wikipedia.org/wiki/Vorbis
-[7]: https://ru.wikipedia.org/wiki/BitTorrent_Sync
+[7]: https://ru.wikipedia.org/wiki/Resilio_Sync
 [8]: https://ru.wikipedia.org/wiki/.torrent
 [9]: https://yadi.sk/d/4sGQknzWKP5ej
 [10]: ./torrents/Omega9_-_Discography_(2007-2017)_FULL.torrent
