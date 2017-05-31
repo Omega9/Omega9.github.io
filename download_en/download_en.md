@@ -19,7 +19,7 @@ All materials were published under [CC BY-SA 4.0 license][1], excluding the case
 
 - The lite bundle includes the entire discography in MP3 and OGG Vorbis formats. *~ 1.6GB*
 
-The bundles is being regularly replenished.
+The bundles are being regularly replenished.
 
 Links to downloading the copy from Cloud remain unchanged as long as possible.
 
@@ -35,7 +35,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 
 ![](./images/YaDisk_Full_QR.png)
 
-*Users of Yandex.Disk can use the function ["Save to Yandex.Disk][15]"*
+*Users of Yandex.Disk can use the function ['Save to Yandex.Disk'][15]*
 
 #### Lite bundle
 *~1,6GB*
