@@ -46,7 +46,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 ![](./images/YaDisk_Lite_QR.png)
 
 -----
-*Last update 28.05.2017*
+*Last update 07.06.2017*
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/
 [2]: https://en.wikipedia.org/wiki/Lossless_compression
