@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Новый альбом и EP
-tags: [Download, Discography]
+tags: [Publishing, LP, EP]
 categories: blog
 date: 2017-06-23
 published: true
