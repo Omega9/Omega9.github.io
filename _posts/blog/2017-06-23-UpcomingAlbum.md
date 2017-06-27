@@ -13,7 +13,11 @@ comments: true
 
 Альбом - это 40 с лишним минут материала. Та самая микротоновая, а значит инструментальная музыка, после чего с микротонами я завязываю на неопределенное время.
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330108461&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 EP величиной в три трека куда ближе к привычному, с гитарами и безладовым басом и всё так же с кучей клавиш. Так же инструментальная, но и с этим я очень надеюсь подзавязать.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/330227366&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 *Да-да, именно: теперь мне нужен голос!*
 
@@ -40,7 +44,7 @@ EP величиной в три трека куда ближе к привычн
 
 Я прошу не проходить мимо. Музыка и эта попытка издать её, как способ самореализации, имеет для меня предельную важность и потому я очень расчитываю на ваше понимание и содействие.
 
-Спасибо за внимание.
+  Спасибо за внимание.
 
 
 Sincerely,
