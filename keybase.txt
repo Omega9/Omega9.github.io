@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/omega9
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://omega9.github.io
+  * I am omega9 (https://keybase.io/omega9) on keybase.
+  * I have a public key ASCwnqr_ASQjEUXSxZjmhwIU3x5JqjSINvQq4Y7U4SWknwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120b09eaaff0124231145d2c598e6870214df1e49aa348836f42ae18ed4e125a49f0a",
+            "host": "keybase.io",
+            "kid": "0120b09eaaff0124231145d2c598e6870214df1e49aa348836f42ae18ed4e125a49f0a",
+            "uid": "26f742803a6ae616966793de6fd05c19",
+            "username": "omega9"
+        },
+        "merkle_root": {
+            "ctime": 1499608037,
+            "hash": "44c7f707ee1611d336a759f89174dd93b84183875e72e1bc8f8dba8c331f4865210d9242fb796c3e1baa8ff62a243574201837595fab51e7cec15f4e5639b78c",
+            "hash_meta": "4a521d3687f3b316b8a00fa0ce292a6c15ac6943f1d1a471111e4a3c4038bd21",
+            "seqno": 1220259
+        },
+        "service": {
+            "hostname": "omega9.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.25"
+    },
+    "ctime": 1499608082,
+    "expire_in": 504576000,
+    "prev": "1fb2794a9673a8ac3d8e529d367b66b5265d456212e102e0fc2397b9a87a0db9",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgsJ6q/wEkIxFF0sWY5ocCFN8eSao0iDb0KuGO1OElpJ8Kp3BheWxvYWTFA0d7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjA5ZWFhZmYwMTI0MjMxMTQ1ZDJjNTk4ZTY4NzAyMTRkZjFlNDlhYTM0ODgzNmY0MmFlMThlZDRlMTI1YTQ5ZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYjA5ZWFhZmYwMTI0MjMxMTQ1ZDJjNTk4ZTY4NzAyMTRkZjFlNDlhYTM0ODgzNmY0MmFlMThlZDRlMTI1YTQ5ZjBhIiwidWlkIjoiMjZmNzQyODAzYTZhZTYxNjk2Njc5M2RlNmZkMDVjMTkiLCJ1c2VybmFtZSI6Im9tZWdhOSJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5OTYwODAzNywiaGFzaCI6IjQ0YzdmNzA3ZWUxNjExZDMzNmE3NTlmODkxNzRkZDkzYjg0MTgzODc1ZTcyZTFiYzhmOGRiYThjMzMxZjQ4NjUyMTBkOTI0MmZiNzk2YzNlMWJhYThmZjYyYTI0MzU3NDIwMTgzNzU5NWZhYjUxZTdjZWMxNWY0ZTU2MzliNzhjIiwiaGFzaF9tZXRhIjoiNGE1MjFkMzY4N2YzYjMxNmI4YTAwZmEwY2UyOTJhNmMxNWFjNjk0M2YxZDFhNDcxMTExZTRhM2M0MDM4YmQyMSIsInNlcW5vIjoxMjIwMjU5fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im9tZWdhOS5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yNSJ9LCJjdGltZSI6MTQ5OTYwODA4MiwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsInByZXYiOiIxZmIyNzk0YTk2NzNhOGFjM2Q4ZTUyOWQzNjdiNjZiNTI2NWQ0NTYyMTJlMTAyZTBmYzIzOTdiOWE4N2EwZGI5Iiwic2Vxbm8iOjE1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQB7WUbm8g1Mn6gRelggRVhZvb+UAaoEJ57sVqnreTybVbekJ/EPhrBV6B2RY5e2SLUou1eatKLdOZAgLb2zAUQSoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCA2k6PaobXcDnWLIOpaTBNiID22VvYfoUJ0i2GYp5OIkKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/omega9
+
+==================================================================
