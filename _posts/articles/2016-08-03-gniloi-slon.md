@@ -4,11 +4,11 @@ title: Гнилой слон
 tags: [Заметки, Облака, Сервисы, Софт]
 categories: articles
 date: 2016-08-03
+image:
+    feature: /2016/08/u8nupb1xjyylfqummnmp.gif
 published: true
 comments: true
 ---
-![](/images/2016/08/u8nupb1xjyylfqummnmp.gif)
-
 Вчера [Слон](https://evernote.com/) окончательно сгнил, ограничив доступ
 до двух устройств. Мне, например, необходимо как минимум три, не считая
 предполагаемой возможной нужды зайти с чужого компьютера.

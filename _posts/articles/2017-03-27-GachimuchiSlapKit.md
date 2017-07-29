@@ -2,7 +2,7 @@
 layout: post
 title: G A C H I M U C H I ♂ S L A P ♂ K I T
 tags: [Kontakt, Samples, Percussion]
-categories: blog
+categories: articles
 date: 2017-03-27
 published: true
 comments: true
