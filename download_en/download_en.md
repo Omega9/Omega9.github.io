@@ -8,7 +8,7 @@ Here are the links to all Omega9 and related projects releases.
 
 All materials were published under [CC BY-SA 4.0 license][1], excluding the cases where the license was indicated separately. This means that these materials are completely free, free for distribution on any medium and in any format, can be changed and used for any purpose, even commercial. Moreover, distribution is welcome.
 
-If you like the music, please consider a [donation](/donation/).
+If you like the music, please consider a [**donation**](/donation/).
 
 ![](./images/CC_BY-SA_4.0.png "CC BY-SA 4.0")
 
