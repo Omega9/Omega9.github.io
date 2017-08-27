@@ -38,5 +38,6 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 
 ## VISA Qiwi
   `nullnine@gmail.com`
+  `+79177402480`
 
   <iframe src="https://qiwi.me/action/widget/omega9" width="520" height="260" frameBorder="0" ref="widget"/>
