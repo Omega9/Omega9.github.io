@@ -7,7 +7,7 @@ published: true
 Music is a labour. It costs some time and money to write and to play.
 As you can see, I distribute this music for free.
 I have not set a price for it, but you can evaluate my efforts.
-If you like it, please make a donation.
+If you like it, please consider a donation.
 
 Музыка - это труд. Сочинение и исполнение ее стоит времени и денег.
 Как вы видите, я распространяю эту музыку бесплатно.
@@ -23,9 +23,9 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 
 ## Yandex.Money, MasterCard, Maestro, VISA
 
-  [https://money.yandex.ru/to/410011887958648](https://money.yandex.ru/to/410011887958648)
+  [Transfer to Wallet • Перевод в кошелек](https://money.yandex.ru/to/410011887958648)
 
-  [http://yasobe.ru/na/omega9](http://yasobe.ru/na/omega9)
+  [На хороший микрофон, струны и всякие мелочи.](http://yasobe.ru/na/omega9)
 
 ## PayPal
   `nullnine@gmail.com`
