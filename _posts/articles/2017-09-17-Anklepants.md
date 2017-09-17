@@ -35,7 +35,7 @@ Facé_control_5 - это микрофон с кучей контроллеров
 
 Более подробно и наглядно с тем, из чего эти штуки собраны, можно ознакомиться [здесь](https://www.flickr.com/photos/facehead/albums) и [здесь](https://www.flickr.com/photos/facehead/sets/72157670605063084).
 
-Официальный [сайт Рикарда Фарши находится здесь](http://reecardfarche.com/), а [здесь его Bandcamp](https://anklepants.bandcamp.com/).
+Официальный [сайт Рикарда Фарши находится здесь](http://reecardfarche.com/), а [здесь его Bandcamp](https://anklepants.bandcamp.com/). [Паблик в VK](https://vk.com/public71265666).
 
 -----
 [Копию этого поста можно найти в моем паблике 3АШYМЛЕНNЕ в VK](https://vk.com/wall-153271373_117)
