@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metronomes
-tags: [SFZ, Metronomes, Bitwig, Ableton,  Multisample]
+tags: [SFZ, Bitwig, Ableton, Multisample, Samples]
 categories: articles
 date: 2016-01-08 15:58:00
 published: true
