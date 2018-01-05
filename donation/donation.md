@@ -21,7 +21,11 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 
 -----
 
-## Yandex.Money, MasterCard, Maestro, VISA
+## Rocketbank
+
+  [Transfer to Wallet • Перевод в кошелек](https://rocketbank.ru/omega9)
+
+## Yandex.Money
 
   [Transfer to Wallet • Перевод в кошелек](https://money.yandex.ru/to/410011887958648)
 
@@ -35,8 +39,12 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 ## Bitcoin
   `1LJmEMkVq2563g3ezjRK6ZUXjDssEdAJoe`
 
+![](./images/BTC.png)
+
 ## Ethereum
   `0x00170339967b35F783729cdf0524234bb746558f`
+
+![](./images/ETH.png)
 
 <!---
 ## VISA Qiwi
