@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Субтитры
-tags: [Кросспост, Видео, Микротональная музыка]
+tags: [Кросспост, Видео, Микротоновая музыка]
 categories: blog
 date: 2016-12-23T00:00:00.000Z
 published: true
