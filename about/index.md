@@ -11,13 +11,11 @@ published: true
 comments: false
 share: false
 ---
-Hi!
-
-My name is Omega9.
-
-Some kind of a musician.
-
-This is my blog.
+Hi!<br />
+My name is Omega9.<br />
+Some kind of a musician.<br />
+I compose and perform in the MÜÜR.<br />
+This is my blog.<br />
 
 <a markdown="0" href="{{ site.url }}/download_en" class="btn">Discography is available to download for free</a>
 
