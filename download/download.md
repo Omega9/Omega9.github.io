@@ -34,6 +34,7 @@ published: true
 *~9,3GB*
 
 - [BitTorrent][10]
+- [BitTorrent magnet link](magnet:?xt=urn:btih:4gy35rkgz62md2lzgvgn4n2gweab2ndj&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
 - [Yandex Disk][9]
 
 ![](./images/YaDisk_Full_QR.png)
@@ -44,12 +45,13 @@ published: true
 *~1,6GB*
 
 - [BitTorrent][13]
+- [BitTorrent magnet link](magnet:?xt=urn:btih:4yaoaqqwzykdv4vmmdfeqqeolhqg4j43&dn=Omega9%20%28%2707-%2718%29%20%5BMP3%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
 - [Yandex Disk][12]
 
 ![](./images/YaDisk_Lite_QR.png)
 
 -----
-*Последнее обновление раздачи 07.06.2017*
+*Последнее обновление раздачи 24.06.2018*
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/
 [2]: https://ru.wikipedia.org/wiki/Сжатие_без_потерь
@@ -59,7 +61,7 @@ published: true
 [6]: https://ru.wikipedia.org/wiki/Vorbis
 [8]: https://ru.wikipedia.org/wiki/.torrent
 [9]: https://yadi.sk/d/4sGQknzWKP5ej
-[10]: ./torrents/Omega9_-_Discography_(2007-2017)_FULL.torrent
+[10]: ./torrents/Omega9_-_Discography_(2007-2018)_FULL.torrent
 [12]: https://yadi.sk/d/_nuSJCMwriLh6
-[13]: ./torrents/Omega9_-_Discography_(2007-2017)_LITE.torrent
+[13]: ./torrents/Omega9_-_Discography_(2007-2018)_LITE.torrent
 [15]: https://yandex.ru/support/disk/uploading.xml#upload-copy
