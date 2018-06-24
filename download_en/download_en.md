@@ -30,7 +30,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 -----
 
 #### Full bundle
-*~9,3GB*
+*~9,2GB*
 
 - [BitTorrent][10]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:4gy35rkgz62md2lzgvgn4n2gweab2ndj&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
@@ -41,7 +41,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 *Users of Yandex.Disk can use the function ['Save to Yandex.Disk'][15]*
 
 #### Lite bundle
-*~1,6GB*
+*~1,5GB*
 
 - [BitTorrent][13]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:4yaoaqqwzykdv4vmmdfeqqeolhqg4j43&dn=Omega9%20%28%2707-%2718%29%20%5BMP3%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
