@@ -17,9 +17,9 @@ If you like the music, please consider a [**donation**](/donation/).
 #### The distribution is made in two versions:
 
 - The full bundle contains discography in formats with [lossless][2] compression ([FLAC][3]) and [lossy][4] ([MP3][5] and [OGG Vorbis][6]) in those cases where original files are lost. In addition, the bundle includes the videos and the records selection dated before 2007.
-*~ 9.3GB*
+*~ 9.4GB*
 
-- The lite bundle includes the entire discography in MP3 and OGG Vorbis formats. *~ 1.6GB*
+- The lite bundle includes the entire discography in MP3 and OGG Vorbis formats. *~ 1.5GB*
 
 The bundles are being regularly replenished.
 
@@ -30,10 +30,11 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 -----
 
 #### Full bundle
-*~9,2GB*
+*~9,4GB*
 
 - [BitTorrent][10]
-- [BitTorrent magnet link](magnet:?xt=urn:btih:4gy35rkgz62md2lzgvgn4n2gweab2ndj&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
+- [BitTorrent magnet link](magnet:?xt=urn:btih:vcanlk6h7e62pdh42jrfd4tsthvstq3k&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
+- [Google Drive](https://drive.google.com/drive/folders/1cS_x_gSrIDwTZDLJmYtpc4NbpKPBww2S?usp=sharing)
 - [Yandex Disk][9]
 
 ![](./images/YaDisk_Full_QR.png)
@@ -45,12 +46,13 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 
 - [BitTorrent][13]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:4yaoaqqwzykdv4vmmdfeqqeolhqg4j43&dn=Omega9%20%28%2707-%2718%29%20%5BMP3%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
+- [Google Drive](https://drive.google.com/drive/folders/1DdKWr4KJh9o8oXsc_YPjPsbU0SegoxdW?usp=sharing)
 - [Yandex Disk][12]
 
 ![](./images/YaDisk_Lite_QR.png)
 
 -----
-*Last update 24.06.2018*
+*Last update 26.06.2018*
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/
 [2]: https://en.wikipedia.org/wiki/Lossless_compression

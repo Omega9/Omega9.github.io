@@ -17,10 +17,10 @@ published: true
 #### Раздача производится в двух комплектациях:
 
 - Полная раздача содержит дискографию в форматах со [сжатием без потерь][2] ([FLAC][3]) и [с потерями][4] ([MP3][5] и [OGG Vorbis][6]) в тех случаях, где оригинальные файлы были утеряны. Кроме того, в раздачу входит видео и подборка записей до 2007-го года.
-*~9,3GB*
+*~9,4GB*
 
 - Облегченная раздача содержит всю дискографию в форматах MP3 и OGG Vorbis.
-*~1,6GB*
+*~1,5GB*
 
 Раздача периодически пополняется.
 
@@ -31,10 +31,11 @@ published: true
 -----
 
 #### Полная дискография
-*~9,2GB*
+*~9,4GB*
 
 - [BitTorrent][10]
-- [BitTorrent magnet link](magnet:?xt=urn:btih:4gy35rkgz62md2lzgvgn4n2gweab2ndj&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
+- [BitTorrent magnet link](magnet:?xt=urn:btih:vcanlk6h7e62pdh42jrfd4tsthvstq3k&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
+- [Google Drive](https://drive.google.com/drive/folders/1cS_x_gSrIDwTZDLJmYtpc4NbpKPBww2S?usp=sharing)
 - [Yandex Disk][9]
 
 ![](./images/YaDisk_Full_QR.png)
@@ -46,12 +47,13 @@ published: true
 
 - [BitTorrent][13]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:4yaoaqqwzykdv4vmmdfeqqeolhqg4j43&dn=Omega9%20%28%2707-%2718%29%20%5BMP3%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
+- [Google Drive](https://drive.google.com/drive/folders/1DdKWr4KJh9o8oXsc_YPjPsbU0SegoxdW?usp=sharing)
 - [Yandex Disk][12]
 
 ![](./images/YaDisk_Lite_QR.png)
 
 -----
-*Последнее обновление раздачи 24.06.2018*
+*Последнее обновление раздачи 26.06.2018*
 
 [1]: https://creativecommons.org/licenses/by-sa/4.0/
 [2]: https://ru.wikipedia.org/wiki/Сжатие_без_потерь
