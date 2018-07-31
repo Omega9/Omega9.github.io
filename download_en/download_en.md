@@ -35,7 +35,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 - [BitTorrent][10]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:upeuaplx6arn3l5ux22sgvwkfl5dpwro&dn=Omega9%20%28%2707-%2718%29&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
 - [Google Drive](https://drive.google.com/open?id=1igFyoboxf0q11JQBk1M887zqzPpQjY6K)
-- [MEGA](https://mega.nz/#F!hFExDKzS) *(Decryption key: !wl-R7Eiu1EBMvV5RLGTFUg)*
+- [MEGA](https://mega.nz/#F!IY9SwYBR) *(Decryption key: **!nGzBokiwvMxVIQlS3NNR4Q**)*
 - [Yandex Disk][9]
 
 ![](./images/YaDisk_Full_QR.png)
@@ -48,7 +48,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 - [BitTorrent][13]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:cai5yaju2gumoejzyhhtnkyu6ulhq353&dn=Omega9%20%28%2707-%2718%29%20%5BMP3%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
 - [Google Drive](https://drive.google.com/open?id=1gOLWOXC-gGgEKL3Yx8nyP8-Z1Sz-OEbV)
-- [MEGA](https://mega.nz/#F!kEUXECwL) *(Decryption key: !Vstd29eTlUL9y94aXJjOhA)*
+- [MEGA](https://mega.nz/#F!kEUXECwL) *(Decryption key: *!Vstd29eTlUL9y94aXJjOhA*)*
 - [Yandex Disk][12]
 
 ![](./images/YaDisk_Lite_QR.png)
