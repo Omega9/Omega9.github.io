@@ -49,7 +49,7 @@ published: true
 - [BitTorrent][13]
 - [BitTorrent magnet link](magnet:?xt=urn:btih:cai5yaju2gumoejzyhhtnkyu6ulhq353&dn=Omega9%20%28%2707-%2718%29%20%5BMP3%5D&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce)
 - [Google Drive](https://drive.google.com/open?id=1gOLWOXC-gGgEKL3Yx8nyP8-Z1Sz-OEbV)
-- [MEGA](https://mega.nz/#F!kEUXECwL) *(Ключ: *!Vstd29eTlUL9y94aXJjOhA*)*
+- [MEGA](https://mega.nz/#F!kEUXECwL) *(Ключ: **!Vstd29eTlUL9y94aXJjOhA**)*
 - [Yandex Disk][12]
 
 ![](./images/YaDisk_Lite_QR.png)
