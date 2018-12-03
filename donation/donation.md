@@ -23,7 +23,7 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 
 ## Rocketbank
 
-  [Transfer to Wallet • Перевод в кошелек](https://rocketbank.ru/omega9)
+  [Direct bank transfer • Прямой банковский перевод (Mastercard, VISA)](https://rocketbank.ru/omega9)
 
 ## Yandex.Money
 

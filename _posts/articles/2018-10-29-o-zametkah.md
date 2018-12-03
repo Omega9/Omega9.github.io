@@ -6,7 +6,7 @@ categories: articles
 date: 2018-10-29
 image:
     feature: /2016/08/u8nupb1xjyylfqummnmp.gif
-published: true
+published: false
 comments: true
 ---
 # О заметках
