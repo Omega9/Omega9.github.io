@@ -17,9 +17,9 @@ MÜÜR estas muzika projekto sen klara ĝenro kaj permanenta konsisto de partopr
 ## Live 13​/​05​/​18
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1231617302/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="http://omega9.bandcamp.com/album/live-13-05-18">Live 13/05/18 by MÜÜR</a></iframe>
- <a markdown="0" href="{{ site.url }}/müür/01/" class="btn">Description</a>
+ <a markdown="0" href="{{ site.url }}/müür/01/" class="btn">Description</a> <a markdown="0" href="{{ site.url }}/müür/01_ru/" class="btn">Описание</a>
 
 ## a message of hope
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=3484318043/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="http://omega9.bandcamp.com/album/a-message-of-hope">a message of hope by MÜÜR</a></iframe>
-<a markdown="0" href="{{ site.url }}/müür/00/" class="btn">Description</a>
+<a markdown="0" href="{{ site.url }}/müür/00/" class="btn">Description</a> <a markdown="0" href="{{ site.url }}/müür/00_ru/" class="btn">Описание</a>
