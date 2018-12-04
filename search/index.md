@@ -8,6 +8,7 @@ image:
   feature:
 search_omit: true
 sitemap: false
+published: false
 ---
   
 <!-- Search form -->

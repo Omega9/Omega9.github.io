@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Discography 2007-2018
-permalink: /download_en/
+permalink: /download/en/
 published: true
 ---
 Here are the links to all Omega9 and related projects releases.
@@ -10,7 +10,7 @@ All materials were published under [CC BY-SA 4.0 license][1], excluding the case
 
 If you like the music, please consider a [**donation**](/donation/).
 
-![](./images/CC_BY-SA_4.0.png "CC BY-SA 4.0")
+![](../images/CC_BY-SA_4.0.png "CC BY-SA 4.0")
 
 -----
 
@@ -38,7 +38,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 - [MEGA](https://mega.nz/#F!IY9SwYBR) *(Decryption key: **!nGzBokiwvMxVIQlS3NNR4Q**)*
 - [Yandex Disk][9]
 
-![](./images/YaDisk_Full_QR.png)
+![](../images/YaDisk_Full_QR.png)
 
 *Users of Yandex.Disk can use the function ['Save to Yandex.Disk'][15]*
 
@@ -51,7 +51,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 - [MEGA](https://mega.nz/#F!kEUXECwL) *(Decryption key: **!Vstd29eTlUL9y94aXJjOhA**)*
 - [Yandex Disk][12]
 
-![](./images/YaDisk_Lite_QR.png)
+![](../images/YaDisk_Lite_QR.png)
 
 -----
 *Last update 31.07.2018*
@@ -64,7 +64,7 @@ The current [.torrent][8] files for distribution in both bundles are distributed
 [6]: https://en.wikipedia.org/wiki/Vorbis
 [8]: https://en.wikipedia.org/wiki/Torrent_file
 [9]: https://yadi.sk/d/4sGQknzWKP5ej
-[10]: ./torrents/Omega9_-_Discography_(2007-2018)_FULL.torrent
+[10]: ../torrents/Omega9_-_Discography_(2007-2018)_FULL.torrent
 [12]: https://yadi.sk/d/_nuSJCMwriLh6
-[13]: ./torrents/Omega9_-_Discography_(2007-2018)_LITE.torrent
+[13]: ../torrents/Omega9_-_Discography_(2007-2018)_LITE.torrent
 [15]: https://yandex.ru/support/disk/uploading.xml#upload-copy

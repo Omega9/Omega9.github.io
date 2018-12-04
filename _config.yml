@@ -31,7 +31,7 @@ kramdown:
 mathjax: true
 
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", ".less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "README.md.bak", "vendor", "serve.sh", "deploy.sh"]
 
 
 # Site owner
@@ -45,14 +45,14 @@ owner:
   github: Omega9
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: nullnine
+  instagram: muur.wav
   flickr: #username
   tumblr: omega9
   # pinterest: nullnine
   weibo: #userid
   google:
-    plus: OmegaNine
-    analytics:
+    plus: #OmegaNine
+    analytics: UA-130384091-1
     verify:
     ad-client:
     ad-slot:

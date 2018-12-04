@@ -1,8 +1,5 @@
 # Site navigation links
 
-- title: About
-  url: /about/
-
 - title: Articles
   url: /articles/
 
@@ -12,11 +9,11 @@
 - title: MÜÜR
   url: /müür/
 
-- title: Download [RU]
+- title: Download
   url: /download/
 
-- title: Download [EN]
-  url: /download_en/
+- title: About
+  url: /about/
 
-- title: Search
-  url: /search/
+# - title: Search
+#  url: /search/
