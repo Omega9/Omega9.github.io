@@ -13,9 +13,18 @@ share: false
 ---
 Hi!<br />
 My name is Omega9.<br />
-Some kind of a musician.<br />
-I compose and perform in the MÜÜR.<br />
-This is my blog.<br />
+I'm a musician and some kind of a personal trainer.<br />
+Composer and performer in the [MÜÜR](/müür/).<br />
+
+Привет!<br />
+Меня зовут Omega9.<br />
+Я музыкант и в некотором роде персональный тренер.<br />
+Композитор и исполнитель в [MÜÜR](/müür/).<br />
+
+Saluton!<br />
+Mia nomo estas Omega9.<br />
+Mi estas muzikisto kaj iu speco de persona trejnisto.<br />
+Kunmeti kaj elfari en la [MÜÜR](/müür/).<br />
 
 <a markdown="0" href="{{ site.url }}/download" class="btn">Discography is available to download for free</a>
 

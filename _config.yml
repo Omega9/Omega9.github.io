@@ -4,7 +4,7 @@ title: Omega9
 locale: en_US
 description: persona paĝo
 # logo: site-logo.png
-search: true
+search: false
 # url: https://Omega9.github.io
 
 # Jekyll configuration
