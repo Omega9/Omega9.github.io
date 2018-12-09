@@ -1,11 +1,26 @@
 // TYPOGRAPHY ================================================
-$base-font                : 'Inconsolata LGC', sans-serif;
+$base-font                : 'source-sans-pro', sans-serif;
 $heading-font             : $base-font;
 $caption-font             : $base-font;
-$code-font                : 'Inconsolata LGC', monospace;
+$code-font                : 'source-code-pro', monospace;
 $alt-font                 : $base-font;
+// $alt-font                 : 'volkhov', serif;
 
-$doc-font-size            : 17;
+// $base-font                : 'Open Sans Condensed Regular', sans-serif;
+// $heading-font             : $base-font;
+// $caption-font             : $base-font;
+// $code-font                : 'Open Sans Condensed Regular', monospace;
+// $alt-font                 : $base-font;
+// // $alt-font                 : 'volkhov', serif;
+
+// $base-font                : 'source sans pro', sans-serif;
+// $heading-font             : $base-font;
+// $caption-font             : $base-font;
+// $code-font                : 'source-code-pro', monospace;
+// $alt-font                 : $base-font;
+// // $alt-font                 : 'volkhov', serif;
+
+$doc-font-size            : 16;
 $doc-line-height          : 24;
 
 $border-radius            : 3px;
@@ -16,6 +31,7 @@ body {
   margin-top: 0px + $doc-line-height;
   font-size: 0px + $doc-font-size;
 }
+
 
 // COLORS =====================================================
 $body-color               : #fff;

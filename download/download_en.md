@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Discography 2007-2018
+title: Discography<br /> 2007-2018
 permalink: /download/en/
 published: true
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Дискография 2007-2018
+title: Дискография<br /> 2007-2018
 permalink: /download/ru/
 published: true
 ---

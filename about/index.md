@@ -2,11 +2,11 @@
 layout: page
 title: About
 excerpt: "Just about."
-modified: 2017-01-15
+modified: 2018-12-11
 image:
     feature: stool-smoke.jpg
     credit: Lu
-    creditlink: https://lu-photographer.tumblr.com
+    creditlink: https://www.behance.net/lu_ph
 published: true
 comments: false
 share: false
@@ -16,16 +16,24 @@ My name is Omega9.<br />
 I'm a musician and some kind of a personal tutor.<br />
 Composer and performer in [MÜÜR](/müür/) project.<br />
 
+You can contact me via [Telegram](http://t.me/Omega9) or [email](mailto:nullnine@gmail.com).
+
+-----
+
 Привет!<br />
 Меня зовут Omega9.<br />
 Я музыкант и некоторым образом репетитор.<br />
 Композитор и исполнитель в [MÜÜR](/müür/).<br />
+
+Связаться со мною можно через [Telegram](http://t.me/Omega9) или [электронную почту](mailto:nullnine@gmail.com).
+
+-----
 
 Saluton!<br />
 Mia nomo estas Omega9.<br />
 Mi estas muzikisto kaj iu speco de persona tutoro.<br />
 Kunmeti kaj elfari en la [MÜÜR](/müür/).<br />
 
-<a markdown="0" href="{{ site.url }}/download" class="btn">Discography is available to download for free</a>
+Vi povas kontakti min tra [Telegram](http://t.me/Omega9) aŭ [retpoŝto](mailto:nullnine@gmail.com).
 
-You can contact me via [Telegram](http://t.me/Omega9) or [email](mailto:nullnine@gmail.com).
+[//]: <> (<a markdown="0" href="{{ site.url }}/download" class="btn">Discography is available to download for free</a>)
