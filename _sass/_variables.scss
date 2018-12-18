@@ -1,12 +1,21 @@
 // TYPOGRAPHY ================================================
-$base-font                : 'Inconsolata-LGC', sans-serif;
+// $base-font                : 'Inconsolata-LGC', sans-serif;
+// $heading-font             : $base-font;
+// $caption-font             : $base-font;
+// $code-font                : 'Inconsolata-LGC', monospace;
+// $alt-font                 : $base-font;
+
+// $doc-font-size            : 17;
+// $doc-line-height          : 24;
+
+$base-font                : 'PT Sans', sans-serif;
 $heading-font             : $base-font;
 $caption-font             : $base-font;
-$code-font                : 'Inconsolata-LGC', monospace;
+$code-font                : 'PT Mono', monospace;
 $alt-font                 : $base-font;
 
-$doc-font-size            : 17;
-$doc-line-height          : 24;
+$doc-font-size            : 19;
+$doc-line-height          : 26;
 
 $border-radius            : 3px;
 
