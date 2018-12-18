@@ -1,10 +1,10 @@
 
 
 <!--
-Copyright (c) 2018 by Omega9 (https://codepen.io/omega9/pen/KbKKwr)
+Copyright (c) 2018 by Omega9 (https://codepen.io/omega9/pen/EGNaqG)
 
 
-Fork of an original work by Will Holcomb (https://codepen.io/dysbulic/pen/LExXNb)
+Fork of an original work by William Hsu (https://codepen.io/Tinricon/pen/XbxRYy)
 
 
 
