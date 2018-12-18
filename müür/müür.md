@@ -14,6 +14,11 @@ MÜÜR - это музыкальный проект без четкой жанр
 MÜÜR estas muzika projekto sen klara ĝenro kaj permanenta konsisto de partoprenantoj. Ĝi estus pli korekta diri ke ili estas malsamaj projektoj sub unu etikedo kaj kun nur unu konstanta partoprenanto.
 
 -----
+## Elirejo de tempo
+
+<iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=2315349011/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="https://omega9.bandcamp.com/album/elirejo-de-tempo-ordinara-eldono">Elirejo de tempo [ordinara eldono]</a></iframe>
+ <a markdown="0" href="{{ site.url }}/müür/02/" class="btn">Description</a> <a markdown="0" href="{{ site.url }}/müür/02_ru/" class="btn">Описание</a> <a markdown="0" href="{{ site.url }}/müür/02_eo/" class="btn">Priskribo</a>
+
 ## Live 13​/​05​/​18
 
 <iframe style="border: 0; width: 350px; height: 350px;" src="https://bandcamp.com/EmbeddedPlayer/album=1231617302/size=large/bgcol=333333/linkcol=ffffff/minimal=true/transparent=true/" seamless><a href="http://omega9.bandcamp.com/album/live-13-05-18">Live 13/05/18 by MÜÜR</a></iframe>
