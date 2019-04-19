@@ -11,13 +11,11 @@ comments: true
 ---
 # Nenio reala
 
-[Shymtau Production][1] сняли видео на трек *Nenio reala* с альбома *Elirejo de tempo*.
+[Shymtau Production][1] сняли видео на трек *Nenio reala* с альбома [*Elirejo de tempo*]({{ site.url }}/müür/02_ru/).
 
 Для тех, кому любопытен текст: это нарезка, составленная из снов подписчиков [группы][2], собранных в далеком 2013-м году и подписчиками же озвученная.
 
 Для тех, кому любопытны некоторые более музыкальные подробности: трек написан в [22-EDO][3].
-
-Употребить всё целиком можно [здесь]({{ site.url }}/müür/02_ru/).
 
 ### YouTube
 <iframe width="560" height="315" src="//www.youtube.com/embed/Iqowg9od_40" frameborder="0"> </iframe>
