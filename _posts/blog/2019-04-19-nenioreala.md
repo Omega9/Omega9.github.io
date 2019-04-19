@@ -5,7 +5,7 @@ tags: [Shymtau, Видео]
 categories: blog
 date: 2019-04-19
 image:
-#    feature: /2018/08/3cover.jpg
+    feature: /2019/04/cap_NR.jpg
 published: true
 comments: true
 ---
