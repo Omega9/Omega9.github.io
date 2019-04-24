@@ -46,6 +46,7 @@ comments: true
 - [Shymtau](https://vk.com/wall-154753426_492)
 - [Новости Уфы и Республики Башкортостан с замечательными комментариями](https://vk.com/wall-23967044_2713317)
 - [ProUral.info](https://proural.info/society/ufimskaya-gruppa-snyavshaya-nashumevshiy-klip-s-goloy-devushkoy-vypustila-novoe-video-o-strannykh-ch/)
+- [Ural Music Night](http://www.uralmusicmag.ru/novosti/item/u-m-r-vyshel-klip-na-pesnyu-nenio-reala)
 - [URAL MUSIC CAMP Уральский музыкальный лагерь](https://vk.com/wall-164335906_366)
 - [АХУМУ](https://vk.com/wall-137147201_8283)
 - [Родной звук](https://vk.com/wall-83415396_162479)
