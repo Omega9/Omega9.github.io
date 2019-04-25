@@ -50,6 +50,7 @@ comments: true
 - [URAL MUSIC CAMP Уральский музыкальный лагерь](https://vk.com/wall-164335906_366)
 - [АХУМУ](https://vk.com/wall-137147201_8283)
 - [Родной звук](https://vk.com/wall-83415396_162479)
+- [Fuck Experimental Music](https://vk.com/wall-39687507_35631)
 - [МСР ГОДНАЯ МУЗЫКА](https://vk.com/wall-4102578_138034)
 - [MOTHERLAND / Музыка отечественных групп](https://vk.com/wall-34035188_92177)
 
