@@ -9,8 +9,6 @@ image:
 published: true
 comments: true
 ---
-# Где послушать, как оплатить и на что нам нужны деньги.
-
 Вы знали, что нашу EP [«a message of hope»](https://omega9.github.io/blog/amessageofhope/) можно приобрести как [на Bandcamp](https://omega9.bandcamp.com/album/a-message-of-hope), так и [на Kroogi](https://omega9.kroogi.com/ru/download/3534317-a-message-of-hope.html)?
 Рекомендуемая цена — всего два бакса, что явно намного дешевле, чем ваше пятничное пиво.
 
