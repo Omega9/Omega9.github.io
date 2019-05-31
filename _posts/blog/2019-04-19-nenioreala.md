@@ -42,6 +42,7 @@ comments: true
 
 Публикации:
 - [Shymtau](https://vk.com/wall-154753426_492)
+- [▼KATABASIA▼](https://vk.com/wall-27732107_86407)
 - [Новости Уфы и Республики Башкортостан с замечательными комментариями](https://vk.com/wall-23967044_2713317)
 - [ProUral.info](https://proural.info/society/ufimskaya-gruppa-snyavshaya-nashumevshiy-klip-s-goloy-devushkoy-vypustila-novoe-video-o-strannykh-ch/)
 - [Ural Music Night](http://www.uralmusicmag.ru/novosti/item/u-m-r-vyshel-klip-na-pesnyu-nenio-reala)
