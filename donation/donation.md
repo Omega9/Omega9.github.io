@@ -36,6 +36,7 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 ## PayPal
   `nullnine@gmail.com`
 
+<!--
 ## Bitcoin
   `1LJmEMkVq2563g3ezjRK6ZUXjDssEdAJoe`
 
@@ -45,6 +46,8 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
   `0x00170339967b35F783729cdf0524234bb746558f`
 
 ![](./images/ETH.png)
+
+-->
 
 <!---
 ## VISA Qiwi
