@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MÜÜR Live @ Воскресник "Заводная литература"
-tags: [MÜÜR Live, Live]
+tags: [MÜÜR, Live]
 categories: blog
 date: 2018-05-15
 image:

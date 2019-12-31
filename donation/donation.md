@@ -33,8 +33,7 @@ Se vi ŝatas ĝin, bonvolu fari donacon.
 
   <iframe src="https://money.yandex.ru/quickpay/shop-widget?writer=seller&targets=%D0%9D%D0%B0%20%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B8%D0%B9%20%D0%BC%D0%B8%D0%BA%D1%80%D0%BE%D1%84%D0%BE%D0%BD%2C%20%D1%81%D1%82%D1%80%D1%83%D0%BD%D1%8B%20%D0%B8%20%D0%B2%D1%81%D1%8F%D0%BA%D0%B8%D0%B5%20%D0%BC%D0%B5%D0%BB%D0%BE%D1%87%D0%B8.&targets-hint=&default-sum=100&button-text=14&payment-type-choice=on&mobile-payment-type-choice=on&hint=&successURL=https%3A%2F%2Fomega9.github.io%2Fdonation%2F&quickpay=shop&account=410011887958648" width="450" height="213" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
-## PayPal
-  `nullnine@gmail.com`
+## [PayPal](https://paypal.me/Omega9)
 
 <!--
 ## Bitcoin

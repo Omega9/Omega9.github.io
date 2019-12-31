@@ -1,7 +1,7 @@
 ---
 layout: post
 title: müür - a message of hope
-tags: [Блог, Релиз, Publishing, EP, Shymtau]
+tags: [Блог, Релиз, Публикация, EP, Shymtau]
 categories: blog
 date: 2018-02-17
 image:

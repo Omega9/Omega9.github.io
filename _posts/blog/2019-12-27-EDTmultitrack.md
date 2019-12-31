@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Elirejo de tempo [OE] - Multitrack
-tags: [Релиз, Publishing, Облака, Сервисы, LP, Multitrack]
+tags: [Релиз, Публикация, Облака, Сервисы, LP, Multitrack]
 categories: blog
 date: 2019-12-27
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Где послушать, как оплатить и на что нам нужны деньги.
-tags: [Блог, Релиз, Publishing, EP]
+tags: [Блог, Релиз, Публикация, EP]
 categories: blog
 date: 2018-06-21
 image:

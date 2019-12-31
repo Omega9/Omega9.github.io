@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MÜÜR Live @ Neutshcore V
-tags: [MÜÜR Live, Live, Shymtau]
+tags: [MÜÜR, Live, Shymtau]
 categories: blog
 date: 2018-02-18
 image:
