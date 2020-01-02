@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nenio reala
-tags: [Shymtau, Видео]
+tags: [Shymtau, Видео, MÜÜR]
 categories: blog
 date: 2019-04-19
 image:
