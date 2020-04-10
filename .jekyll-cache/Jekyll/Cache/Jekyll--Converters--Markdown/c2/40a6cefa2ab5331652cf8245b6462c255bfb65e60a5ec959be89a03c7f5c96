@@ -1,0 +1,70 @@
+I"m<h4 id="touchosc-layouts"><a href="hexler.net/software/touchosc">TouchOSC</a> layouts</h4>
+
+<hr />
+<p><strong>ReaperRecorder</strong> is based on <a href="forum.cockos.com/showpost.php?s=764669ee8aaa672e21baf215bc17aadd&amp;p=923046&amp;postcount=9">TouchReaper</a> layout.
+It’s much simpler and intended to use as a remote control for a record time rather than mixer.</p>
+
+<p>Place <strong>ReaperRecorder.ReaperOSC</strong> to <strong>C:/users/<em>username</em>/Application Data/REAPER/OSC/</strong></p>
+
+<p>ReaperRecorder.touchosc
+ReaperRecorderH.touchosc
+ReaperRecorder.ReaperOSC
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/ReaperRecorder.png" alt="" />
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/ReaperRecorderH.png" alt="" /></p>
+
+<hr />
+
+<p>Simple <a href="xenharmonic.wikispaces.com/17edo">17-edo</a> Halberstadt keyboard.
+The higher and the lower version.</p>
+
+<p>17-edo keyboard.touchosc
+17-edo keyboard lo.touchosc
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/17-edo_keyboard.png" alt="" /></p>
+
+<hr />
+
+<p>Simple <a href="xenharmonic.wikispaces.com/19edo">19-edo</a> Halberstadt keyboard.
+The higher and the lower version.</p>
+
+<p>19-edo keyboard.touchosc
+19-edo keyboard lo.touchosc
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/19-edo_keyboard.png" alt="" /></p>
+
+<hr />
+
+<p>Joseph Yasser’s 19-edo 12-7 (<a href="xenharmonic.wikispaces.com/19edo#As a means of extending harmony">supradiatonic</a> and diatonic) keyboard.
+The higher and the lower version.</p>
+
+<p>Yasser’s 19-edo keyboard-hi.touchosc
+Yasser’s 19-edo keyboard-lo.touchosc
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/Yasser's_19-edo_keyboard_1.png" alt="" />
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/Yasser's_19-edo_keyboard_2.png" alt="" /></p>
+
+<hr />
+
+<p>“<a href="www.youtube.com/watch?v=dGUD58gp6Fk">Symmetric</a>” or “balanced” 6-6 keyboard.
+The higher and the lower version.</p>
+
+<p><a href="www.balanced-keyboard.com/PeopleAndResources.aspx">www.balanced-keyboard.com/PeopleAndResources.aspx</a>
+<a href="www.migo.info/music/bilinear_chromatic_keyboard.xhtml_en.html">www.migo.info/music/bilinear_chromatic_keyboard.xhtml_en.html</a></p>
+
+<p>Balanced Keyboard.touchosc
+Balanced Keyboard lo.touchosc
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/Balanced_Keyboard.png" alt="" /></p>
+
+<hr />
+
+<p>Various layouts</p>
+
+<p>Lattice (12-edo).touchosc
+Padboard-lo-h.touchosc
+Padboard-mid-h.touchosc
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/Padboard1.png" alt="" />
+<img src="https://github.com/Omega9/Midi0-Toys/raw/master/TouchOSC/screenshots/Padboard2.png" alt="" /></p>
+
+<hr />
+
+<p>UNDONE:
+XYpad.touchosc
+Y-position velocity keyboard.touchosc</p>
+:ET

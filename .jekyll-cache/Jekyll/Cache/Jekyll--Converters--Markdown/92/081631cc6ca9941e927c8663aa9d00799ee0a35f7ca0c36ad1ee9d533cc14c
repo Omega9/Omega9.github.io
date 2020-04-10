@@ -1,0 +1,27 @@
+I"Ë<h4 id="notemapper-scales"><a href="http://codefn42.com/notemapper.html">NoteMapper</a> scales</h4>
+
+<p><strong>Scales.txt</strong> locates in <strong>C:/Users/<em>Username</em>/My Documents/CodeFN42/NoteMapper/</strong> and contain scales in such format:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Chromatic;0,1,2,3,4,5,6,7,8,9,10,11
+Major;0,2,4,5,7,9,11
+Minor - Natural;0,2,3,5,7,8,10
+Minor - Melodic;0,2,3,5,7,9,11
+Minor - Harmonic;0,2,3,5,7,8,11
+Pentatonic - Major;0,2,4,7,9
+Pentatonic - Minor;0,3,5,7,10
+Blues;0,3,5,6,7,10
+</code></pre></div></div>
+
+<p>Since version 1.02 you can set a note where pattern begins to repeat. Many thanks to <a href="http://codefn42.com/">CodeFN42</a> for that feature.</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Chromatic;0,1,2,3,4,5,6,7,8,9,10,11;12
+</code></pre></div></div>
+
+<p>So now you can do things like this:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>22-edo "Just" Major;0,4,7,9,13,16,20;22
+22-edo "Just" Minor;0,4,6,9,13,15,18;22
+</code></pre></div></div>
+
+<p>In <a href="https://github.com/Omega9/Midi0-Toys/tree/master/NoteMapper%20Scales">this repository</a> thereâ€™s a collection of scales for <a href="http://xenharmonic.wikispaces.com/22edo">22-edo</a>, <a href="http://xenharmonic.wikispaces.com/19edo">19-edo</a> or <a href="http://xenharmonic.wikispaces.com/Carlos+Beta">Carlos Beta</a>.</p>
+:ET
