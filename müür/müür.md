@@ -6,12 +6,14 @@ published: true
 image:
     feature: /logo/müür.png
 ---
+MÜÜR is a musical project without a clear genre and a permanent lineup. It would be more correct to say that these are different projects under one label and with one permanent participant.<br />
+[MÜÜR website](https://muur-proj.web.app/).
 
-MÜÜR is a musical project without a clear genre and a permanent lineup. It would be more correct to say that these are different projects under one label and with one permanent participant.
+MÜÜR - это музыкальный проект без четкой жанровой принадлежности и постоянного состава. Правильнее будет сказать, что это разные проекты под одной вывеской и с одним постоянным и неизменным участником.<br />
+[Cайт MÜÜR](https://muur-proj.web.app/).
 
-MÜÜR - это музыкальный проект без четкой жанровой принадлежности и постоянного состава. Правильнее будет сказать, что это разные проекты под одной вывеской и с одним постоянным и неизменным участником.
-
-MÜÜR estas muzika projekto sen klara ĝenro kaj permanenta konsisto de partoprenantoj. Ĝi estus pli korekta diri ke ili estas malsamaj projektoj sub unu etikedo kaj kun nur unu konstanta partoprenanto.
+MÜÜR estas muzika projekto sen klara ĝenro kaj permanenta konsisto de partoprenantoj. Ĝi estus pli korekta diri ke ili estas malsamaj projektoj sub unu etikedo kaj kun nur unu konstanta partoprenanto.<br />
+[Retejo de MÜÜR](https://muur-proj.web.app/).
 
 -----
 ## Elirejo de tempo
