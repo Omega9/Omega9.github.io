@@ -20,14 +20,17 @@ Mi ne havas prezon por tio, sed vi povas taksi mia penoj.
 Se vi ŝatas ĝin, bonvolu fari donacon.
 
 -----
+## Tinkoff Bank
+[Transfer to Card • Перевод на карту](https://www.tinkoff.ru/rm/kaledin.dmitriy1/6WHzD74784)
 
+<!--- 
 ## Rocketbank
 
-  [Direct bank transfer • Прямой банковский перевод (Mastercard, VISA)](https://rocketbank.ru/omega9)
+  [Direct bank transfer • Прямой банковский перевод (Mastercard, VISA)](https://rocketbank.ru/omega9)--->
 
 ## Yandex.Money
 
-  [Transfer to Wallet • Перевод в кошелек](https://money.yandex.ru/to/410011887958648)
+  [Transfer to Wallet • Перевод на кошелек](https://money.yandex.ru/to/410011887958648)
 
   <!--- [На хороший микрофон, струны и всякие мелочи.](http://yasobe.ru/na/omega9) --->
 
