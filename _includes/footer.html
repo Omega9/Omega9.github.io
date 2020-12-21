@@ -3,7 +3,8 @@
 <span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com" rel="nofollow">Jekyll</a> using the <a href="https://mademistakes.com/work/so-simple-jekyll-theme/" rel="nofollow">So Simple Theme</a>.</span>
 <div class="social-icons">
 	{% if site.owner.twitter %}<a href="https://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
-	{% if site.owner.mastodon %}<a href="https://phreedom.tk/@{{ site.owner.mastodon }}" title="{{ site.owner.name}} on Mastodon" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>{% endif %}
+	{% if site.owner.mastodon %}<a href="{{ site.owner.mastodon }}" title="{{ site.owner.name}} on Mastodon" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>{% endif %}
+	{% if site.owner.pleroma %}<a href="{{ site.owner.pleroma }}" title="{{ site.owner.name}} on Pleroma" target="_blank"><i class="fa fa-twitter fa-2x"></i></a>{% endif %}
 	{% if site.owner.vk %}<a href="https://vk.com/{{ site.owner.vk }}" title="{{ site.owner.name}} on VK" target="_blank"><i class="fa fa-vk fa-2x"></i></a>{% endif %}
 	{% if site.owner.facebook %}<a href="https://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook fa-2x"></i></a>{% endif %}
 	{% if site.owner.google.plus %}<a href="https://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
