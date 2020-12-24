@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "БЛОГ ПЕРЕЕХАЛ"
+title: БЛОГ ПЕРЕЕХАЛ
 tags: [Блог]
 categories: blog
 date: 2020-12-24
