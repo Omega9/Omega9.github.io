@@ -1,5 +1,7 @@
 # Persona pagino de Omega9
 
+## [Блог переехал сюда](https://omega9.web.app/)
+
 [•articles](https://omega9.github.io/articles)
 
 [•blog](https://omega9.github.io/blog)
