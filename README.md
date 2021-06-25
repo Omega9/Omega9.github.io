@@ -1,13 +1,5 @@
 # Persona pagino de Omega9
 
-## [Блог переехал сюда](https://omega9.web.app/)
+## [Блог переехал](https://omega9.web.app/) || [The blog has moved](https://omega9.web.app/)
 
-[•articles](https://omega9.github.io/articles)
-
-[•blog](https://omega9.github.io/blog)
-
-[•müür](https://omega9.github.io/müür)
-
-[•download discography](https://omega9.github.io/download)
-
-[•about](https://omega9.github.io/about)
+## [MÜÜR](https://muur-proj.web.app)
